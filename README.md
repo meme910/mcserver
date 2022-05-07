@@ -4,7 +4,7 @@ This is a modded Minecraft server. Follow these instructions to set it up:
 1. Install [Forge_v1.18.1](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html). 
 2. Run minecraft to ensure that forge is working properly.
 3. Download the `config` and `mods` folders by clicking on the green Code button and downloading the ZIP file.
-4. Unzip the file and copy the `config` and `mods` folders to your `.minecraft` folder. This folder can typically be found in `%appdata%`.
+4. Unzip the file and replace the `config` and `mods` folders in your `.minecraft` folder. This folder can typically be found in `%appdata%`.
 
 ## Optional add-ons
 
